@@ -3,7 +3,9 @@ Find last number of Credit Card
 
 The question is from paiza.
 
-Get X number.
+https://paiza.jp/challenges/share/pV5J-sNoVZJl1toQPL6YNlAw9H8Okp6esP-Hny9kfCg?source=social
+
+Find X number.
 
 Example input:  
 4  
